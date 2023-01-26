@@ -295,13 +295,10 @@ bottom: 3px;
             transform: none !important;
         
     }
-  #container{
-    display: flex;
-    align-items: center; 
-    justify-content: space-around !important;
-    position: relative;
-    
-}
+  .right{
+        padding-left: -150px !important;
+      
+    }
  form{
      width: 330px;
      height: 890px;
