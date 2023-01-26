@@ -295,6 +295,9 @@ bottom: 3px;
             transform: none !important;
         
     }
+     .right{
+        margin-left: -10px !important;
+    }
  form{
      width: 330px;
      height: 890px;
