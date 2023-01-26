@@ -295,9 +295,13 @@ bottom: 3px;
             transform: none !important;
         
     }
-     .right{
-        margin-left: -10px !important;
-    }
+  #container{
+    display: flex;
+    align-items: center; 
+    justify-content: space-around !important;
+    position: relative;
+    
+}
  form{
      width: 330px;
      height: 890px;
